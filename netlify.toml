@@ -1,8 +1,0 @@
-[build]
-  command = "go build main.go"
-  functions = "functions"
-  publish = "public"
-
-[build.environment]
-  GO_IMPORT_PATH = "github.com/masteruul/go_restapi"
-  GO111MODULE = "on"
