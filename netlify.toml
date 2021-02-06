@@ -1,5 +1,5 @@
 [build]
-  command = "go buil main.go"
+  command = "go build main.go"
   functions = "functions"
   publish = "public"
 
